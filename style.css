@@ -23,7 +23,6 @@
 
 .container {
     padding: 30px;
-    border: 1px solid black;
     background-color: #ffffff;
 }
 
@@ -34,6 +33,7 @@
 h2 {
     color: #4aaaa5;
     font-size: 30px;
+    font-weight: 500;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-bottom: 2px solid #cccccc;
     padding-bottom: 15px;
