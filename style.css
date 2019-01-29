@@ -9,14 +9,10 @@
     font-size: 30px;
     font-weight: 500;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    position: relative;
-    left: 390px;
 }
 
 .nav-link {
     color: black;
-    position: relative;
-    right: 390px;
 }
 
 .body-container {
